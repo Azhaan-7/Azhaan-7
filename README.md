@@ -44,16 +44,18 @@ Right now, I'm developing my skills in **backend engineering, automated testing,
 
 ### Selected projects
 
+**🏢 Venue Vendors** · *Next.js, React, TypeScript, Express, GraphQL, TypeORM, Azure SQL*  
+A two-person team project for venue hiring, with separate hirer/vendor and administrative applications. REST and GraphQL APIs support venue discovery, ranked preferences, booking applications, availability management, and administration over a shared relational database. Frontend tests use Jest and React Testing Library.
+
 **🍽️ CommunityEats** · *Java, Spring Boot, Spring Security, JDBC, Thymeleaf, H2*  
 A team-built meal ordering application. I worked on authentication, role-aware navigation, database migrations, automated tests, and GitHub Actions CI as part of an Agile development workflow.
 
 **🌦️ Australian Climate Data Explorer** · *Java, Javalin, SQLite, SQL*  
 A climate data exploration web application with station filtering, aggregated statistics, station comparisons, and CSV exports.
 
-**📋 Job Application Tracker** · *React, TypeScript, Tailwind CSS*  
-An in-progress application featuring a multi-step form, reusable validation, progress tracking, and animated transitions.
-
 ### Currently building
 
-**🤖 AI-Assisted Career Platform** · *In development*  
-An evidence-backed tool designed to analyse job requirements, compare them with real experience, and suggest resume improvements **without inventing qualifications**. Planned stack: Next.js, FastAPI, PostgreSQL/Supabase, and an Azure-hosted AI model.
+**🤖 AI-Assisted Career Platform** · *In design and development*  
+Evolving from my earlier Job Application Tracker into an evidence-backed career tool. The planned workflow combines job requirement analysis, matching against verified experience, user-reviewed resume suggestions **without inventing qualifications**, and application tracking.
+
+Planned stack: Next.js, FastAPI, Supabase (PostgreSQL, Auth, and Storage), and an Azure-hosted AI model.
