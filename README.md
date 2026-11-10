@@ -51,6 +51,6 @@ A two-person team project for venue hiring, with separate hirer/vendor and admin
 A climate data exploration web application with station filtering, aggregated statistics, station comparisons, and CSV exports.
 
 **🍽️ CommunityEats** · *Java, Spring Boot, Spring Security, JDBC, Thymeleaf, H2*  
-A team-built meal ordering application. I worked on authentication, role-aware navigation, database migrations, automated tests, and GitHub Actions CI as part of an Agile development workflow. RMIT assignment
+A team-built meal ordering application. I worked on authentication, role-aware navigation, database migrations, automated tests, and GitHub Actions CI as part of an Agile development workflow. RMIT assignment.
 **Repository not public as the assignment has not yet been graded**
 
